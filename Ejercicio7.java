@@ -2,7 +2,7 @@ package ejercicios_practica;
 import java.util.Scanner;
 import java.util.Random;
 
-public class AdivinaSimple {
+public class Ejercicio7{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random rand = new Random();
